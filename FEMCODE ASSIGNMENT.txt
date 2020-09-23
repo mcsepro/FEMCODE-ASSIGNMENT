@@ -1,0 +1,23 @@
+
+Procedural language
+
+A procedural language is a computer programming language that follows, in order, a set of commands. Examples of computer procedural languages are BASIC, C, FORTRAN, Java, and Pascal.
+
+Procedural languages are some of the common types of programming languages used by script and software programmers. They make use of functions, conditional statements, and variables to create programs that allow a computer to calculate and display a desired output.
+
+Using a procedural language to create a program can be accomplished by using a programming editor or IDE, like Adobe Dreamweaver, Eclipse, or Microsoft Visual Studio. These editors help users develop programming code using one or more procedural languages, test the code, and fix bugs in the code.
+
+
+Object-oriented
+
+Sometimes abbreviated as OO, object-oriented is a term first thought of by Ole-Johan Dahl and is used to describe a device, service software, or system that interacts with multiple objects. For example, performing an action on a service may execute multiple objects to deal with that task of that action.
+
+Structured programming 
+
+is a programming paradigm aimed at improving the clarity, quality, and development time of a computer program by making extensive use of the structured control flow constructs of selection (if/then/else) and repetition (while and for), block structures, and subroutines in contrast to using simple tests and jumps such as the go to statement, which can lead to “spaghetti code” that is potentially difficult to follow and maintain.
+
+Functional programming (often abbreviated FP) is the process of building software by composing pure functions, avoiding shared state, mutable data, and side-effects. Functional programming is declarative rather than imperative, and application state flows through pure functions. Contrast with object oriented programming, where application state is usually shared and colocated with methods in objects.
+
+Functional programming is a programming paradigm, meaning that it is a way of thinking about software construction based on some fundamental, defining principles (listed above). Other examples of programming paradigms include object oriented programming and procedural programming.
+
+Functional code tends to be more concise, more predictable, and easier to test than imperative or object oriented code — but if you’re unfamiliar with it and the common patterns associated with it, functional code can also seem a lot more dense, and the related literature can be impenetrable to newcomers.
